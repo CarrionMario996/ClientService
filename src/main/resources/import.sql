@@ -1,0 +1,4 @@
+insert into clients (id,address,document,email,first_name,last_name,phone) values(1,'San Salvador','05403395-8','carrionmario996@gmail.com','Mario','Carrion','5037950139');
+insert into clients (id,address,document,email,first_name,last_name,phone) values(2,'San Miguel','05403395-0','carlos@gmail.com','Carlos','Perez','5037904139');
+insert into clients (id,address,document,email,first_name,last_name,phone) values(3,'Son Sonsonate','05403345-8','roberto@gmail.com','Roberto','Hernandez','5037670139');
+insert into clients (id,address,document,email,first_name,last_name,phone) values(4,'San Salvador','05403396-8','peter@gmail.com','Peter','Parker','5037955139');
